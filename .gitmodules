@@ -1,0 +1,42 @@
+[submodule "tree-sitter-c"]
+	path = tree-sitter-c
+	url = git@github.com:tree-sitter/tree-sitter-c.git
+[submodule "repos/craftinginterpreters"]
+	path = repos/craftinginterpreters
+	url = git@github.com:munificent/craftinginterpreters.git
+[submodule "repos/grep"]
+	path = repos/grep
+	url = https://git.savannah.gnu.org/git/grep.git
+[submodule "repos/jemalloc"]
+	path = repos/jemalloc
+	url = git@github.com:jemalloc/jemalloc.git
+[submodule "repos/ncurses"]
+	path = repos/ncurses
+	url = git@github.com:gittup/ncurses.git
+[submodule "repos/neovim"]
+	path = repos/neovim
+	url = git@github.com:neovim/neovim.git
+[submodule "repos/nginx"]
+	path = repos/nginx
+	url = https://github.com/nginx/nginx.git
+[submodule "repos/oniguruma"]
+	path = repos/oniguruma
+	url = git@github.com:kkos/oniguruma.git
+[submodule "repos/redis"]
+	path = repos/redis
+	url = https://github.com/antirez/redis.git
+[submodule "repos/the_silver_searcher"]
+	path = repos/the_silver_searcher
+	url = git@github.com:ggreer/the_silver_searcher.git
+[submodule "repos/transmission"]
+	path = repos/transmission
+	url = git@github.com:transmission/transmission.git
+[submodule "repos/wren"]
+	path = repos/wren
+	url = git@github.com:wren-lang/wren.git
+[submodule "repos/wrk"]
+	path = repos/wrk
+	url = git@github.com:wg/wrk.git
+[submodule "repos/zstd"]
+	path = repos/zstd
+	url = git@github.com:facebook/zstd.git
